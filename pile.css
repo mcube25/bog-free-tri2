@@ -151,7 +151,7 @@ footer {
     position: fixed;
     background-color: #33383b;
     width: 100%;
-    padding-left: 8px;
+    left: 0;
     height: 23vh;
-    margin-bottom: 0;
+    bottom: 0;
 }
